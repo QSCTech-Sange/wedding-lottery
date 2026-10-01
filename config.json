@@ -1,0 +1,128 @@
+{
+  "婚礼标题": "杨宇昊 & 冉淼 的婚礼",
+  "副标题": "喜 迎 宾 客 · 幸 运 抽 奖",
+  "祝福语": "感谢各位来宾的见证，愿好运与幸福常伴左右！",
+  "号码范围": {
+    "起始": 1,
+    "结束": 300
+  },
+  "抽奖档次": [
+    {
+      "name": "三等奖",
+      "prize": "旺旺零食大礼包",
+      "count": 15,
+      "prizeImage": "prize3/p3-1.jpg,prize3/p3-2.jpg,prize3/p3-3.jpg"
+    },
+    {
+      "name": "二等奖",
+      "prize": "咖啡杯",
+      "count": 11,
+      "prizeImage": "prize2/p2-1.jpg,prize2/p2-2.jpg,prize2/p2-3.jpg,prize2/p2-4.jpg,prize2/p2-5.jpg,prize2/p2-6.jpg,prize2/p2-7.jpg,prize2/p2-8.jpg,prize2/p2-9.jpg,prize2/p2-10.jpg,prize2/p2-11.jpg",
+      "prizes": [
+        {
+          "name": "咖啡杯",
+          "count": 1
+        },
+        {
+          "name": "电热水壶",
+          "count": 1
+        },
+        {
+          "name": "泡泡玛特盲盒",
+          "count": 1
+        },
+        {
+          "name": "体脂秤",
+          "count": 1
+        },
+        {
+          "name": "U型枕",
+          "count": 4
+        },
+        {
+          "name": "香薰机",
+          "count": 1
+        },
+        {
+          "name": "小米充电宝",
+          "count": 1
+        },
+        {
+          "name": "吹风机",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "一等奖",
+      "prize": "按摩眼罩",
+      "count": 6,
+      "prizeImage": "prize1/p1-1.jpg,prize1/p1-2.jpg,prize1/p1-3.jpg,prize1/p1-4.jpg,prize1/p1-5.jpg,prize1/p1-6.jpg",
+      "prizes": [
+        {
+          "name": "按摩眼罩",
+          "count": 1
+        },
+        {
+          "name": "K歌音箱",
+          "count": 1
+        },
+        {
+          "name": "小米手环11",
+          "count": 1
+        },
+        {
+          "name": "腰部按摩仪",
+          "count": 1
+        },
+        {
+          "name": "小爱触屏音箱",
+          "count": 1
+        },
+        {
+          "name": "TWS耳夹耳机",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "特等奖",
+      "prize": "美的空气净化器",
+      "count": 1,
+      "prizeImage": "prize0/p0-1.jpg"
+    }
+  ],
+  "背景音乐": {
+    "开启": true,
+    "音量": 11,
+    "歌单": [
+      "assets/music/haoyunlai.m4a"
+    ]
+  },
+  "背景照片": [
+    "background/bg-01.jpg",
+    "background/bg-02.jpg",
+    "background/bg-03.jpg",
+    "background/bg-04.jpg",
+    "background/bg-05.jpg",
+    "background/bg-06.jpg",
+    "background/bg-07.jpg",
+    "background/bg-08.jpg",
+    "background/bg-09.jpg",
+    "background/bg-10.jpg",
+    "background/bg-11.jpg",
+    "background/bg-12.jpg",
+    "background/bg-13.jpg",
+    "background/bg-14.jpg",
+    "background/bg-15.jpg",
+    "background/bg-16.jpg",
+    "background/bg-17.jpg",
+    "background/bg-18.jpg",
+    "background/bg-19.jpg"
+  ],
+  "展示设置": {
+    "显示奖品图片": true,
+    "播放音效": true,
+    "结束烟花": true
+  }
+}
